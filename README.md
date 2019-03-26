@@ -7,6 +7,7 @@ Forecasting future can assist analysts and management in making better calculate
 I will be using  ARIMA model in StatsModels package for forecasting. 
 
 The ARIMA model has 3 parameters:
+
 P — Auto regressive feature of the model
 
 D — Differencing order
